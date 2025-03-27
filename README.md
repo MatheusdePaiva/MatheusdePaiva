@@ -1,19 +1,19 @@
-# 👋 Hey there! I'm a Computer Science and Full Stack Dev Student
+# Matheus Paiva
 
-Welcome to my GitHub!
+![Badge](https://img.shields.io/badge/Software%20Engineer-gray?style=flat-square)
 
-I’m diving into the world of tech as a Computer Science and Full Stack Development student.
+I'm a back-end developer with a strong focus on Java and its ecosystem. I specialize in using Spring and working with both relational and NoSQL databases. Currently, I am sharpening my skills in Docker, GitHub, and other tools to build scalable, high-quality systems.
 
-## 🚀 What I'm Up To
+---
 
-- Experimenting with back-end development using Node.js and Express.
-- Building full stack projects to level up my skills.
-- Learning about databases and how to make things run smoothly.
+## Technologies & Tools:
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+</p>
 
-## 💡 What I Love
 
-I’m super passionate about tech and always curious about turning ideas into real solutions. I love trying out new tools and frameworks, and I’m always looking for new challenges and opportunities to collaborate.
-
-## 🤝 Let’s Connect!
-
-I’m open to new opportunities and would love to chat with anyone who’s as excited about technology as I am. Check out my projects and feel free to reach out if you want to connect!
