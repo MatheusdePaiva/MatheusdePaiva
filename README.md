@@ -1,194 +1,61 @@
-# <div align="center">👋 Hello! I'm a Computer Science Student</div>
-
 <div align="center">
-  
-### 🎯 CS Student | Backend Developer | Exploring AI and Data
 
-*"Discovering how AI and Machine Learning can transform processes"*
+## Matheus Paiva
+**DevOps & Cloud Engineer**
 
-[![GitHub followers](https://img.shields.io/github/followers/matheusdepaiva?style=social)](https://github.com/matheusdepaiva)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/matheusdepaiva)
+<samp>I make shipping to production routine and failures rare.<br>I build the services myself, so the infrastructure I design fits how they actually run.</samp>
+
+<a href="https://linkedin.com/in/matheusdepaiva"><img src="https://img.shields.io/badge/LinkedIn-171b21?style=flat&logo=linkedin&logoColor=58a6ff" /></a>
+<img src="https://img.shields.io/badge/Curitiba,%20BR-171b21?style=flat&logo=googlemaps&logoColor=58a6ff" />
+<img src="https://komarev.com/ghpvc/?username=MatheusdePaiva&style=flat&color=171b21&label=views" />
 
 </div>
 
----
-
-## 🚀 About Me
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "CS Student"
-        self.focus = "Backend, Data & AI"
-        self.languages = ["Python", "SQL"]
-        self.frameworks = ["FastAPI", "Pydantic"]
-        self.databases = ["MySQL", "SQL Server"]
-        self.learning = "Machine Learning and data analysis"
-        self.goal = "Solve real problems with technology"
-    
-    def get_interests(self):
-        return [
-            "Scalable backend development",
-            "Machine Learning and data analysis", 
-            "Data integration and APIs",
-            "Intelligent solutions with AI"
-        ]
-```
-
-I'm always exploring ways to use **AI, Machine Learning, and data analysis** to solve interesting problems. I have hands-on experience with backend development and I'm now diving into the world of data and intelligent algorithms.
-
----
-
-## 🛠️ Technologies I Use
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-```python
-# Current stack
-technologies = {
-    "backend": {
-        "framework": "FastAPI",
-        "validation": "Pydantic",
-        "apis": "RESTful",
-        "architecture": "Microservices"
-    },
-    "machine_learning": {
-        "exploring": "Learning algorithms",
-        "data": "Analysis and visualization", 
-        "tools": "Pandas, NumPy"
-    },
-    "automation": {
-        "gui": "PyAutoGUI", 
-        "reports": "Automated",
-        "integration": "pyodbc"
-    },
-    "data": {
-        "databases": ["MySQL", "SQL Server"],
-        "connectivity": "pyodbc",
-        "queries": "Optimized SQL"
-    }
-}
-```
-
-### What I do daily:
-- **APIs with FastAPI** - Creating fast and reliable web services
-- **Data analysis** - Exploring datasets and extracting insights
-- **Machine Learning** - Learning algorithms and predictive models  
-- **Data integration** - Connecting systems and databases
-- **Intelligent automation** - Combining data with automation
-
----
-
-## 🎯 Development Focus
+<br>
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-```python
-class BackendDeveloper:
-    def __init__(self):
-        self.focus = "Scalable APIs"
-        self.tools = ["FastAPI", "Pydantic"]
-        self.goal = "Clean and efficient code"
+### `Infra & operations`
+
+```yaml
+ci_cd:       GitHub Actions — build, test, deploy, migrate
+containers:  Docker Compose, multi-service on Linux
+web_server:  Nginx — TLS, HSTS, CSP, rate-limiting
+monitoring:  Sentry, Uptime Kuma, alerting
+databases:   PostgreSQL, Redis, MongoDB
 ```
 
 </td>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-```python
-class DataExplorer:
-    def __init__(self):
-        self.focus = "AI and Machine Learning"
-        self.tools = ["Python", "Pandas", "NumPy"]
-        self.goal = "Intelligent insights from data"
+### `Backend`
+
+```yaml
+apis:        FastAPI, async
+realtime:    WebSocket, Redis Pub/Sub
+migration:   monolith to async SQLAlchemy, no downtime
+security:    JWT, AES-256-GCM, RBAC, SAST
+frontend:    React, TypeScript
 ```
 
 </td>
 </tr>
 </table>
 
----
-
-## 💡 My Approach
-
-```python
-my_style = {
-    "learning": "Learning by doing",
-    "problems": "There's always a more elegant solution",
-    "code": "Simple, functional, and well documented", 
-    "collaboration": "Love exchanging ideas and learning together",
-    "mindset": "Continuous improvement in everything"
-}
-
-# Always looking for smarter ways to get things done
-def solve_problem(problem):
-    if can_automate(problem):
-        return "Let's write a script!"
-    else:
-        return "Let's think of a creative solution"
-```
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusdepaiva&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdepaiva&layout=compact&theme=radical&hide_border=true)
+### Stack
 
-</div>
+<sub>RUNNING IN PRODUCTION TODAY</sub>
 
----
-```python
-# Some projects I've developed
-projects = {
-    "fastapi_apis": "Web services for different needs",
-    "data_analysis": "Exploring datasets and generating insights",
-    "ml_experiments": "Testing algorithms and predictive models", 
-    "data_integration": "Connecting systems and automating workflows"
-}
-```
+<img src="https://skillicons.dev/icons?i=gcp,docker,githubactions,nginx,linux,python,fastapi,django,postgres,redis,mongodb&perline=11" />
 
----
+<br><br>
 
-## 📫 Let's connect?
+<sub>GOING DEEP NEXT &nbsp;·&nbsp; the platform stack, hands-on now</sub>
 
-<div align="center">
-
-```python
-contact = {
-    "linkedin": "linkedin.com/in/matheusdepaiva", 
-    "always_curious": True,
-    "collaboration": "Love working on interesting projects!",
-    "topics": ["Technology", "AI", "Data", "Ideas that work"]
-}
-
-print("Always open to talk about technology and projects! 🚀")
-```
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusdepaiva)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheusdepaiva)
-
-</div>
-
----
-
-<div align="center">
-
-```python
-philosophy = "If data can predict, why not use it? 🤖📊"
-
-# Thanks for visiting! ⭐ 
-# If you like any project, leave a star!
-```
+<img src="https://skillicons.dev/icons?i=kubernetes,terraform,aws,go&perline=4" />
 
 </div>
