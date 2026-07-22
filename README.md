@@ -15,12 +15,12 @@
 ### `Infra & operations`
 
 ```yaml
-cloud:       GCP — Cloud Run, Cloud SQL, storage
-ci_cd:       GitHub Actions — build, test, deploy, migrate
-containers:  Docker Compose, multi-service on Linux
-web_server:  Nginx — TLS, HSTS, CSP, rate-limiting
-monitoring:  Sentry, Uptime Kuma, alerting
-databases:   PostgreSQL, Redis, MongoDB
+cloud:       GCP · Cloud Run · Cloud SQL · GCS
+ci_cd:       GitHub Actions · SAST gating
+containers:  Docker Compose · multi-service on Linux
+edge:        Nginx · TLS · HSTS · CSP · rate-limit
+observ:      Sentry · Uptime Kuma · alerting
+data:        PostgreSQL · Redis · MongoDB
 ```
 
 </td>
@@ -29,12 +29,12 @@ databases:   PostgreSQL, Redis, MongoDB
 ### `Backend`
 
 ```yaml
-apis:        FastAPI and Django, async
-realtime:    WebSocket, Redis Pub/Sub
-migration:   legacy monolith to async SQLAlchemy
-downtime:    zero
-security:    JWT, AES-256-GCM, RBAC, SAST
-frontend:    React, TypeScript
+apis:        FastAPI · Django · async ASGI
+realtime:    WebSocket · Redis Pub/Sub
+orm:         async SQLAlchemy · Alembic
+queues:      Celery · Redis
+authz:       JWT · RBAC · AES-256-GCM
+frontend:    React · TypeScript · Vite
 ```
 
 </td>
@@ -49,7 +49,7 @@ frontend:    React, TypeScript
 
 ### Going deep next
 
-<sub>the platform stack — hands-on now, headed for production</sub>
+<sub>Taking my production experience into infrastructure-as-code and orchestration — building it hands-on, not from tutorials.</sub>
 
 <img src="https://skillicons.dev/icons?i=kubernetes,terraform,aws,go&perline=4" />
 
